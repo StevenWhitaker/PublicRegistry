@@ -1,0 +1,6 @@
+name = "PublicRegistry"
+uuid = "617be3c6-fb4e-4c21-9f42-abb8874174fd"
+repo = "git@github.com:StevenWhitaker/PublicRegistry.git"
+description = "A registry for public packages"
+
+[packages]
