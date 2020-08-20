@@ -1,0 +1,3 @@
+name = "NNLS"
+uuid = "679bf57e-4d52-5e00-96eb-bf45b5a2faee"
+repo = "git@github.com:StevenWhitaker/NNLS.jl.git"

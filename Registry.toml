@@ -4,5 +4,6 @@ repo = "git@github.com:StevenWhitaker/PublicRegistry.git"
 description = "A registry for public packages"
 
 [packages]
+679bf57e-4d52-5e00-96eb-bf45b5a2faee = { name = "NNLS", path = "N/NNLS" }
 85f1910e-5d62-11e9-1bce-2b30a05932d4 = { name = "PERK", path = "P/PERK" }
 e905d6ce-5d58-11e9-2213-8b5d9f240645 = { name = "STFR", path = "S/STFR" }
