@@ -8,5 +8,10 @@ julia = "1.2.0-1"
 BlochSim = "0.2-0.4"
 
 [2]
-BlochSim = "0.5"
 Reexport = "1"
+
+["2.0.0"]
+BlochSim = "0.5"
+
+["2.0.1-2"]
+BlochSim = "0.5-0.6"
